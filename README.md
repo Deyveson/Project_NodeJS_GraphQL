@@ -9,7 +9,7 @@ This repository is the example application for the [_Getting Started_ guide](htt
 
 ## Installation
 
-1. Clone this repository: `git clone git@github.com:apollographql/graphql-server-example.git`
+1. Clone this repository: `git clone https://github.com/Deyveson/Project_NodeJs_GraphQL.git`
 2. `cd` into the `ws_project` folder and run the following commands:
     1. Run `npm install`
     2. Run `npm start`
