@@ -1,0 +1,20 @@
+{
+  "name": "graphql-server-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Meteor Development Group",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-datasource": "^0.3.1",
+    "apollo-datasource-rest": "^0.3.2",
+    "apollo-server": "^2.0.5",
+    "graphql": "^0.13.2",
+    "isemail": "^3.2.0"
+  }
+}
